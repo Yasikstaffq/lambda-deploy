@@ -1,0 +1,3 @@
+[submodule "sample_file"]
+	path = sample_file
+	url = https://github.com/Yasikstaffq/sample_file.git
